@@ -13,10 +13,10 @@ body {
   animation: bigger 2s 0.5s ease;
 }
 #banner {
-  animation: fadeIn 2s 0.5s ease;
+  animation: fadeIn 1s .25s ease;
 }
 #sm-banner {
-  animation: fadeIn 2s ease;
+  animation: fadeIn 1s .25s ease;
 }
 #contact {
   animation: fadeUp 2s ease;
